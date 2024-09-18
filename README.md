@@ -2,6 +2,14 @@
 Perkenalkan nama Saya **Nuryana Saepul Ramdan**. <br>
 Saya seorang **Mahasiswa** program studi **Fisika** dari **Institut Pertanian Bogor**.
 Jika Kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/nuryanasaepulramdan/)ku ya.
+
+<p align="left">
+<a href="https://github.com/nsfis21">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
+</a>
+</p>
+
 <!--
 **nsfis21/nsfis21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
