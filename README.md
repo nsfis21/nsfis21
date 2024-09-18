@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+# Halo semua!
+Perkenalkan nama Saya **Nuryana Saepul Ramdan**. <br>
+Saya seorang **Mahasiswa** program studi **Fisika** dari **Institut Pertanian Bogor**.
+Jika Kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/nuryanasaepulramdan/)ku ya.
 <!--
 **nsfis21/nsfis21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
