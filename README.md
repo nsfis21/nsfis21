@@ -1,5 +1,4 @@
-## Hi there 👋
-# Halo semua!
+# Hallo semua! 👋
 Perkenalkan nama Saya **Nuryana Saepul Ramdan**. <br>
 Saya seorang **Mahasiswa** program studi **Fisika** dari **Institut Pertanian Bogor**.
 Jika Kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/nuryanasaepulramdan/)ku ya.
